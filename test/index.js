@@ -1,7 +1,7 @@
 const assert = require('assert')
 
-describe("bora",()=>{
-    it("bora2", ()=>{
-        assert.equal(1,0);
+describe("Iniciando testes",()=>{
+    it("testando se 1 é iqual a 1", ()=>{
+        assert.equal(1,1);
     });
 });
