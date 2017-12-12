@@ -1,0 +1,24 @@
+{
+  "name": "poc-travisci",
+  "version": "1.0.0",
+  "description": "This poc will be to learn the better form of to use the TravisCI",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanbastos93/poc-travisci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanbastos93/poc-travisci/issues"
+  },
+  "homepage": "https://github.com/renanbastos93/poc-travisci#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "expressjs": "^1.0.1",
+    "mocha": "^4.0.1"
+  }
+}
