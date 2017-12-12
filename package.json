@@ -8,15 +8,15 @@
     "start": "node app.js"
   },
   "engines": {
-    "node": "7.x.x",
-    "npm": "5.1.x"
+    "node": "7.10.1",
+    "npm": "5.1.0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/renanbastos93/poc-travisci.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/renanbastos93/poc-travisci/issues"
   },
