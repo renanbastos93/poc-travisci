@@ -4,7 +4,8 @@
   "description": "This poc will be to learn the better form of to use the TravisCI",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
