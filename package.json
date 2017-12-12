@@ -9,7 +9,7 @@
   "engines": {
     "node": "8.9.x",
     "npm": "5.1.x"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/renanbastos93/poc-travisci.git"
