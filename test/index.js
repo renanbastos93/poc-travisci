@@ -5,14 +5,12 @@ let chaiHttp = require('chai-http');
 
 chai.use(chaiHttp);
 
-
-
 describe("POC TRAVIS-CI TESTs API",()=>{
     before(function(){
-        // console.log("Iniciando testes");
+        console.log("Iniciando testes");
     });
     after(function(){
-        // console.log("Finalizando testes");
+        console.log("Finalizando testes");
         setTimeout(process.exit, 1500);
     });
     it("GET /", ()=>{
